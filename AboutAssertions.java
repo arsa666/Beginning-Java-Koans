@@ -1,3 +1,4 @@
+
 package beginner;
 
 // FYI - usually bad practice to import statically, but can make code cleaner
